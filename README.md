@@ -19,3 +19,7 @@ This is a simple demo on how to contribute to this project
 
 ## Contact Info
 Oliver Xu
+
+### Copyright
+2019 Git.Training
+
